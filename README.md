@@ -5,7 +5,7 @@
 2. If your code uses non standard python libraries you will need to create an environment.yml file (also placed in the root directory along with your notebook)
    This file will specify libraries for conda to install when Binder builds your notebook environment
    
-   **your code only uses standard python libraries you do not need a environment.yml**
+   **your code only uses standard python libraries you do not need an environment.yml**
 
 This is the contents of my environment.yml, since my notebook uses numpy and matplotlib I specify those under "dependencies"
 "Name" is an orbitrary name for your environment\
