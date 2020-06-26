@@ -23,7 +23,7 @@ dependencies:
 4. Navigate to mybinder.org
 5. paste in the url you just copied in the first box labeled "GitHub repository name or URL"
 6. Copy the url under the "Copy the URL below and share your Binder with others:" url
-7. hit the orange "launch" button 
-   NOTE: the first time you do this may take a few mintues this is normal
+7. hit the orange "launch" button\
+ **NOTE: The first time you do this it may take a few mintues to complete, this is normal**
 
 Once Binder is done building your environement you can now use the url you copied in step 6 to share your notebook.
